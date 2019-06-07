@@ -64,7 +64,7 @@
     "aphrodite": "^2.3.1",
     "babel-loader": "^8.0.6",
     "babel-plugin-inline-react-svg": "^1.1.0",
-    "babel-plugin-inline-svg": "^1.0.0",
+    "babel-plugin-inline-svg": "^1.0.1",
     "babel-plugin-istanbul": "^5.1.4",
     "babel-plugin-transform-replace-object-assign": "^2.0.0",
     "babel-preset-airbnb": "^3.2.1",
