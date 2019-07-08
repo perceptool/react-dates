@@ -110,7 +110,7 @@
     "why-did-you-update": "^1.0.6"
   },
   "dependencies": {
-    "@babel/runtime": "^7.4.5",
+    "@babel/runtime": "^7.5.2",
     "airbnb-prop-types": "^2.10.0",
     "consolidated-events": "^1.1.1 || ^2.0.0",
     "enzyme-shallow-equal": "^1.0.0",
